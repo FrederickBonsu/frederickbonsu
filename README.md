@@ -5,7 +5,7 @@
 
 ## Experience 🧑🏻‍💻
 
-rc="https://skillicons.dev/icons?i=html,css,js,py,java,nodejs,sass,mysql,bootstrap,tailwindcss,astro,react,nextjs,django,tensorflow,dart,flutter,bash,svelte,,webflow,typescript,kotlin,sveltekit,prisma,nginx,ai,ps,pr,figma,firebase,wordpress,git,postman,aws,azure,heroku,vercel,netlify,docker,windows,linux,ubuntu&perline=16" alt="Languages"/>
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,py,java,nodejs,sass,mysql,bootstrap,tailwindcss,astro,react,nextjs,django,tensorflow,dart,flutter,bash,svelte,,webflow,typescript,kotlin,sveltekit,prisma,nginx,ai,ps,pr,figma,firebase,wordpress,git,postman,aws,azure,heroku,vercel,netlify,docker,windows,linux,ubuntu&perline=16" alt="Languages"/>
 
 <br/> 
 
