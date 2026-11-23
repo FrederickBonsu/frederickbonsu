@@ -1,4 +1,4 @@
-<a href="https://manulthanura.com"><img src="https://raw.githubusercontent.com/manulthanura/manulthanura/main/herobg.png" align="center" style="width: 100%" alt="Frederick Bonsu" /></a>
+<img style="margin: 10px" href="https://manulthanura.com"><img src="https://raw.githubusercontent.com/manulthanura/manulthanura/main/herobg.png" align="center" style="width: 100%" alt="Frederick Bonsu" /></a>
 
 <br>
 
